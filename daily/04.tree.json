@@ -1,0 +1,554 @@
+[
+  {
+    "Data_Qly_Rule_Dsc": "要素不全分析",
+    "Dspl_Seq_No": "2",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_empty_ana",
+    "Rule_Nm": "要素不全分析",
+    "Sub_ID": "name_empty",
+    "children": [
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "19",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0001",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "20",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0002",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "21",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0003",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "22",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0004",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "23",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0005",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "24",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0006",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "25",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0007",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "26",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0008",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "27",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0009",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "28",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0010",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "29",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0011",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "30",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0012",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "31",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0013",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "32",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0014",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "33",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0015",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件号码不准",
+        "Dspl_Seq_No": "34",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "crdtno_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "crdtno_err_0016",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "姓名不准",
+        "Dspl_Seq_No": "35",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "name_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "name_err_0001",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "姓名不准",
+        "Dspl_Seq_No": "36",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "name_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "name_err_0002",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "姓名不准",
+        "Dspl_Seq_No": "37",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "name_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "name_err_0003",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "姓名不准",
+        "Dspl_Seq_No": "38",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "name_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "name_err_0004",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "姓名不准",
+        "Dspl_Seq_No": "39",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "name_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "name_err_0005",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "姓名不准",
+        "Dspl_Seq_No": "40",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "name_err",
+        "Rule_Nm": "证件号码不准",
+        "Sub_ID": "name_err_0006",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "姓名不准",
+        "Dspl_Seq_No": "41",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "tpcd_err",
+        "Rule_Nm": "姓名不准",
+        "Sub_ID": "tpcd_err_0001",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "证件类型不准",
+        "Dspl_Seq_No": "42",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "tpcd_err",
+        "Rule_Nm": "证件类型不准",
+        "Sub_ID": "tpcd_err_0002",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "性别不准",
+        "Dspl_Seq_No": "43",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "gnd_err",
+        "Rule_Nm": "性别不准",
+        "Sub_ID": "gnd_err_0001",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "性别不准",
+        "Dspl_Seq_No": "44",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "gnd_err",
+        "Rule_Nm": "性别不准",
+        "Sub_ID": "gnd_err_0002",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "性别不准",
+        "Dspl_Seq_No": "45",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "gnd_err",
+        "Rule_Nm": "性别不准",
+        "Sub_ID": "gnd_err_0003",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "国籍不准",
+        "Dspl_Seq_No": "46",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "nat_err",
+        "Rule_Nm": "国籍不准",
+        "Sub_ID": "nat_err_0001",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "国籍不准",
+        "Dspl_Seq_No": "47",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "nat_err",
+        "Rule_Nm": "国籍不准",
+        "Sub_ID": "nat_err_0002",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "国籍不准",
+        "Dspl_Seq_No": "48",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "nat_err",
+        "Rule_Nm": "国籍不准",
+        "Sub_ID": "nat_err_0003",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "国籍不准",
+        "Dspl_Seq_No": "49",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "nat_err",
+        "Rule_Nm": "国籍不准",
+        "Sub_ID": "nat_err_0004",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "国籍不准",
+        "Dspl_Seq_No": "50",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "nat_err",
+        "Rule_Nm": "国籍不准",
+        "Sub_ID": "nat_err_0005",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "国籍不准",
+        "Dspl_Seq_No": "51",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "nat_err",
+        "Rule_Nm": "国籍不准",
+        "Sub_ID": "nat_err_0006",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "国籍不准",
+        "Dspl_Seq_No": "52",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "nat_err",
+        "Rule_Nm": "国籍不准",
+        "Sub_ID": "nat_err_0007",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "那你啊啊",
+        "Dspl_Seq_No": "55",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "2",
+        "Rule_ID": "name_empty",
+        "Rule_Nm": "那你啊啊",
+        "Sub_ID": "name_empty_333",
+        "children": []
+      }
+    ]
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不全分析",
+    "Dspl_Seq_No": "3",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_empty_ana",
+    "Rule_Nm": "要素不全分析",
+    "Sub_ID": "tpcd_empty",
+    "children": [
+      {
+        "Data_Qly_Rule_Dsc": "国籍不准01",
+        "Dspl_Seq_No": "53",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "3",
+        "Rule_ID": "nat_err_0007",
+        "Rule_Nm": "国籍不准01",
+        "Sub_ID": "nat_err_0007_0001",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "国籍不准02",
+        "Dspl_Seq_No": "54",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "3",
+        "Rule_ID": "nat_err_0001",
+        "Rule_Nm": "国籍不准02",
+        "Sub_ID": "xxx_001",
+        "children": []
+      },
+      {
+        "Data_Qly_Rule_Dsc": "性别不准1",
+        "Dspl_Seq_No": "56",
+        "File_Ind": "0",
+        "Rule_Hier_Rel_Cd": "3",
+        "Rule_ID": "xxx_001",
+        "Rule_Nm": "性别不准1",
+        "Sub_ID": "xxx_001_000111",
+        "children": []
+      }
+    ]
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不全分析",
+    "Dspl_Seq_No": "4",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_empty_ana",
+    "Rule_Nm": "要素不全分析",
+    "Sub_ID": "gnd_empty",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不全分析",
+    "Dspl_Seq_No": "5",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_empty_ana",
+    "Rule_Nm": "要素不全分析",
+    "Sub_ID": "exdat_empty",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不全分析",
+    "Dspl_Seq_No": "6",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_empty_ana",
+    "Rule_Nm": "要素不全分析",
+    "Sub_ID": "nat_empty",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不全分析",
+    "Dspl_Seq_No": "7",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_empty_ana",
+    "Rule_Nm": "要素不全分析",
+    "Sub_ID": "ocp_empty",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不全分析",
+    "Dspl_Seq_No": "8",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_empty_ana",
+    "Rule_Nm": "要素不全分析",
+    "Sub_ID": "adr_empty",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不全分析",
+    "Dspl_Seq_No": "9",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_empty_ana",
+    "Rule_Nm": "要素不全分析",
+    "Sub_ID": "telctc_empty",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不准分析",
+    "Dspl_Seq_No": "10",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_err_ana",
+    "Rule_Nm": "要素不准分析",
+    "Sub_ID": "crdtno_err",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不准分析",
+    "Dspl_Seq_No": "11",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_err_ana",
+    "Rule_Nm": "要素不准分析",
+    "Sub_ID": "name_err",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不准分析",
+    "Dspl_Seq_No": "12",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_err_ana",
+    "Rule_Nm": "要素不准分析",
+    "Sub_ID": "tpcd_err",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不准分析",
+    "Dspl_Seq_No": "13",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_err_ana",
+    "Rule_Nm": "要素不准分析",
+    "Sub_ID": "gnd_err",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不准分析",
+    "Dspl_Seq_No": "14",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_err_ana",
+    "Rule_Nm": "要素不准分析",
+    "Sub_ID": "exdat_err",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不准分析",
+    "Dspl_Seq_No": "15",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_err_ana",
+    "Rule_Nm": "要素不准分析",
+    "Sub_ID": "nat_err",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不准分析",
+    "Dspl_Seq_No": "16",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_err_ana",
+    "Rule_Nm": "要素不准分析",
+    "Sub_ID": "ocp_err",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不准分析",
+    "Dspl_Seq_No": "17",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_err_ana",
+    "Rule_Nm": "要素不准分析",
+    "Sub_ID": "adr_err",
+    "children": []
+  },
+  {
+    "Data_Qly_Rule_Dsc": "要素不准分析",
+    "Dspl_Seq_No": "18",
+    "File_Ind": "0",
+    "Rule_Hier_Rel_Cd": "1",
+    "Rule_ID": "ele_err_ana",
+    "Rule_Nm": "要素不准分析",
+    "Sub_ID": "telctc_err",
+    "children": []
+  }
+]

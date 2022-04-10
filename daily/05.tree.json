@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "parId": 0,
+    "val": "根节点",
+    "children": [
+      {
+        "id": 2,
+        "parId": 1,
+        "val": "子节点2",
+        "children": [
+          { "id": 4, "parId": 2, "val": "2的子节点4", "children": [] },
+          { "id": 4.1, "parId": 2, "val": "2的子节点4.1", "children": [] }
+        ]
+      },
+      {
+        "id": 3,
+        "parId": 1,
+        "val": "子节点3",
+        "children": [
+          { "id": 5, "parId": 3, "val": "3的子节点5", "children": [] }
+        ]
+      }
+    ]
+  }
+]
